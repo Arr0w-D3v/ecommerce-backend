@@ -1,0 +1,29 @@
+# Dépendances
+node_modules/
+
+
+# Variables d'environnement
+.env
+
+# Base de données
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+GUIDE_REACT_FRONTEND.md
+GUIDE_REACT_FRONTEND-AVANCE.md
